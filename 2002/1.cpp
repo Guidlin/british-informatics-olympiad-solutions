@@ -1,3 +1,13 @@
+/*
+The 2002 British Informatics Olympiad
+Question 1: Lojban
+
+Time complexity: O(n)
+Space complexity: O(n)
+
+Solved by: guidlin (Elliot Cassidy)
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
